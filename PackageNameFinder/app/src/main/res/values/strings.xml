@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Package Name Finder</string>
+    <string name="system_app">System Applications</string>
+    <string name="user_app">User Applications</string>
+    <string name="launch_app">Launch This Application</string>
+</resources>

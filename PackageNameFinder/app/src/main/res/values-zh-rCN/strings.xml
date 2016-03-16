@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">包名查找器</string>
+    <string name="system_app">系统应用</string>
+    <string name="user_app">用户安装应用</string>
+    <string name="launch_app">启动这个应用程序</string>
+</resources>
