@@ -1,2 +1,2 @@
-.idea/
-app/*.iml
+.idea/*
+app/app.iml
